@@ -7,10 +7,5 @@ This project analyzes historical Brent oil prices (1987–2022) to identify majo
 ## 📊 Key Features
 ✅ **Time Series Analysis**: Detects price trends & shifts.
 ✅ **CUSUM Change Point Detection**: Identifies significant structural changes.
-✅ **Event Correlation**: Links price shifts with major geopolitical/economic events.
 
-## 📌 Next Steps
-- Enhance analysis with **ARIMA/GARCH models**.
-- Correlate detected change points with **historical news/events**.
-- Deploy results on a **Streamlit dashboard**.
 
