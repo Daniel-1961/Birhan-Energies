@@ -25,5 +25,9 @@ This project analyzes **Brent crude oil prices** from **May 20, 1987, to Septemb
 - Compare model performance using **MSE, RMSE, and MAE**.
 - Visualize predictions and identify **significant event impacts**.
 
+=======
+## 📊 Key Features
+✅ **Time Series Analysis**: Detects price trends & shifts.
+✅ **CUSUM Change Point Detection**: Identifies significant structural changes.
 
 
