@@ -1,3 +1,4 @@
+
 # Brent Oil Price Analysis
 
 ## 📌 Project Overview
@@ -29,5 +30,4 @@ This project analyzes **Brent crude oil prices** from **May 20, 1987, to Septemb
 ## 📊 Key Features
 ✅ **Time Series Analysis**: Detects price trends & shifts.
 ✅ ** Change Point Detection**: Identifies significant structural changes.
-
 
